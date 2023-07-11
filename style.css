@@ -19,6 +19,26 @@ body {
   border-radius: 8px;
 }
 
+.primary-title {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  padding-bottom: 18px;
+  padding-top: 50px;
+}
+
+.primary-pera {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 48px;
+}
+
 /* Global section end */
 
 /* header section start */
@@ -59,6 +79,70 @@ header {
 /* header section end */
 
 /* main section start */
+/* featured products area start */
+
+.featured-container {
+  padding: 80px 140px 100px 140px;
+}
+
+.featured-products-area {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 0 140px 0 140px;
+}
+
+.products-img-area1 {
+  width: 340px;
+  height: 450px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+  background-image: url("FlowerAsset/pngwing\ 6.png");
+  background-repeat: no-repeat;
+  background-position: bottom center;
+}
+.products-img-area2 {
+  width: 340px;
+  height: 450px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(5, 151, 160, 0.15);
+  background-image: url("FlowerAsset/pngwing\ 5.png");
+  background-repeat: no-repeat;
+  background-position: bottom center;
+}
+.products-img-area3 {
+  width: 340px;
+  height: 450px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
+  background-image: url("FlowerAsset/pngwing\ 7.png");
+  background-repeat: no-repeat;
+  background-position: bottom center;
+}
+
+.featured-products-display1 {
+  text-align: center;
+}
+.featured-products-display2 {
+  text-align: center;
+}
+.featured-products-display3 {
+  text-align: center;
+}
+
+.products-name {
+  margin-top: 15px;
+}
+
+.products-name a {
+  color: #272727;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 35px;
+  text-decoration-line: underline;
+}
+
+/* featured products area end */
 /* main section end */
 
 /* footer section start */
