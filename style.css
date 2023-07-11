@@ -203,6 +203,88 @@ header {
 
 /* hot deal section end */
 
+/* best seller section start */
+
+.best-seller-container {
+  margin: 100px 0;
+}
+
+.best-img1 {
+  width: 250px;
+  height: 200px;
+  background-color: rgba(167, 33, 98, 0.15);
+}
+.best-img2 {
+  width: 250px;
+  height: 200px;
+  background-color: rgba(167, 33, 98, 0.15);
+}
+.best-img3 {
+  width: 250px;
+  height: 200px;
+  background-color: rgba(167, 33, 98, 0.15);
+}
+.best-img4 {
+  width: 250px;
+  height: 200px;
+  background-color: rgba(167, 33, 98, 0.15);
+}
+
+.best-seller-display {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  text-align: center;
+}
+
+.best-pera {
+  margin: 10px 0;
+}
+
+.best-pera a {
+  color: #272727;
+  line-height: 25px;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.best-caption {
+  font-size: 20px;
+  color: #272727;
+}
+
+/* best seller section end */
+
+/* Instagram section start */
+
+.insta-display {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+
+.instra-img1 {
+  width: 250px;
+  height: 296px;
+  background-color: #e55473;
+}
+.instra-img2 {
+  width: 250px;
+  height: 296px;
+  background-color: #e55473;
+}
+.instra-img3 {
+  width: 250px;
+  height: 296px;
+  background-color: #e55473;
+}
+.instra-img4 {
+  width: 250px;
+  height: 296px;
+  background-color: #e55473;
+}
+/* Instagram section end */
+
 /* main section end */
 
 /* footer section start */
