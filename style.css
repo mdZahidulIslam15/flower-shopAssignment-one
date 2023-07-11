@@ -105,28 +105,51 @@ header {
   width: 340px;
   height: 450px;
   border-radius: 300px 300px 0px 0px;
-  background: rgba(167, 33, 98, 0.15);
+  background: rgba(233, 197, 214, 0.15);
   background-image: url("FlowerAsset/pngwing\ 6.png");
   background-repeat: no-repeat;
   background-position: bottom center;
+  box-shadow: 4px 0 30px 5px rgba(163, 151, 151, 0.3);
+  transition: 0.4s ease-in;
 }
+
+.products-img-area1:hover {
+  box-shadow: 4px 0 30px 5px rgba(88, 81, 81, 0.3);
+  transition: 0.4s ease-in;
+}
+
 .products-img-area2 {
   width: 340px;
   height: 450px;
   border-radius: 300px 300px 0px 0px;
-  background: rgba(5, 151, 160, 0.15);
+  background: rgba(233, 197, 214, 0.15);
   background-image: url("FlowerAsset/pngwing\ 5.png");
   background-repeat: no-repeat;
   background-position: bottom center;
+  box-shadow: 4px 0 30px 5px rgba(163, 151, 151, 0.3);
+  transition: 0.4s ease-out;
 }
+
+.products-img-area2:hover {
+  box-shadow: 4px 0 30px 5px rgba(88, 81, 81, 0.3);
+  transition: 0.4s ease-in;
+}
+
 .products-img-area3 {
   width: 340px;
   height: 450px;
   border-radius: 300px 300px 0px 0px;
-  background: rgba(71, 125, 17, 0.15);
+  background: rgba(233, 197, 214, 0.15);
   background-image: url("FlowerAsset/pngwing\ 7.png");
   background-repeat: no-repeat;
   background-position: bottom center;
+  box-shadow: 4px 0 30px 5px rgba(163, 151, 151, 0.3);
+  transition: 0.4s ease-out;
+}
+
+.products-img-area3:hover {
+  box-shadow: 4px 0 30px 5px rgba(88, 81, 81, 0.3);
+  transition: 0.4s ease-in;
 }
 
 .featured-products-display1 {
