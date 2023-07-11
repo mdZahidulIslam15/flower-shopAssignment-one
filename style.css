@@ -164,6 +164,45 @@ header {
 }
 /* delivery section end */
 
+/* hot deal section start */
+
+.hot-deal-area {
+  text-align: center;
+}
+
+.hot-deal-container {
+  height: 620px;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0 200px;
+  /* margin: auto; */
+  gap: 85px;
+}
+
+.hot-title {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.hot-title-pink {
+  color: #e55473;
+}
+
+.hot-pera {
+  color: rgba(39, 39, 39, 0.6);
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  padding: 24px 0 12px 0;
+}
+
+/* hot deal section end */
+
 /* main section end */
 
 /* footer section start */
